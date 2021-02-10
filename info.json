@@ -1,0 +1,10 @@
+{
+  "name": "AutomaticProviderStations",
+  "version": "0.0.1",
+  "title": "Automatic Provider Stations",
+  "author": "Charles Cooke",
+  "contact": "ccooke-factorio@gkhs.net",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Adds a new Provider station which automaically renames itself and sets a train limit"
+}
