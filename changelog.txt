@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2021-10-26 19:31:19+00:00
+  Info:
+    - Initial release, alpha quality.
+  Feature:
+    - Simple logistics system. 
+  Locale:
+    - English only
